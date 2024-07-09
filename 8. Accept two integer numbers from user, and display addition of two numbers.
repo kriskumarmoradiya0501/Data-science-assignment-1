@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul  9 21:57:04 2024
+
+@author: ADMIN
+"""
+
+num1 = int(input("Enter number 1 :"))
+num2 = int(input("Enter number 2 :"))
+add = num1+num2
+print(num1,"+",num2,"=",add)
