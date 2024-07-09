@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul  9 21:55:22 2024
+
+@author: ADMIN
+"""
+
+name = "Ramesh Patel"
+
+print(name.split(" "))
