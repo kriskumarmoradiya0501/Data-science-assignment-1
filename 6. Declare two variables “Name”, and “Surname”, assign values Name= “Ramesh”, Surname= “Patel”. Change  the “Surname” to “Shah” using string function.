@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul  9 21:49:12 2024
+
+@author: ADMIN
+"""
+
+name = "Ramesh"
+surname= "Patel"
+
+print("Before",name," ",surname)
+
+print("After",name," ",surname.replace("Patel","Shah"))
