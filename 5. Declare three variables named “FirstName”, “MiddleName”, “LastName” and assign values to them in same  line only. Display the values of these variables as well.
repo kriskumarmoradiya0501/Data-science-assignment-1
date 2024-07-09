@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul  9 21:46:27 2024
+
+@author: ADMIN
+"""
+
+fn, mn, ln = "Kriskumar", "Hiteshbhai", "moradiya"
+
+print("FirstName:", fn)
+print("MiddleName:", mn)
+print("LastName:", ln)
