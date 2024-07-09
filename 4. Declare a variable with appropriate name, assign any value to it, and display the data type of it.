@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul  9 21:42:29 2024
+
+@author: ADMIN
+"""
+
+a = 42
+
+v_name = "a"
+print(f"{v_name} = {a}")
+print(type(a))
