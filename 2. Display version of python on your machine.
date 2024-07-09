@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul  9 21:38:36 2024
+
+@author: ADMIN
+"""
+
+import sys
+print("Python version")
+print(sys.version)
+print("Version info.")
+print(sys.version_info)
