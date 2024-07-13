@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 12:56:02 2024
+
+@author: ADMIN
+"""
+
+
+city = ["surat","bhavanagar","mumbai","delhi","panjab","gudgaun"]
+print("Third city is ",city[2])
