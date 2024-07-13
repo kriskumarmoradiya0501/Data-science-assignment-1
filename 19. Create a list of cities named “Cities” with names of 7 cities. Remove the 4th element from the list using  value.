@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:09:40 2024
+
+@author: ADMIN
+"""
+
+city = ["surat","Ahmedabad","Chandigrh","bhavanagar","Hariyana","gudgaun"]
+for cityies in city:
+    print(cityies)
+print("Here we are removing bhavanagar")
+city.remove("bhavanagar")
+for cityies in city:
+    print(cityies)
