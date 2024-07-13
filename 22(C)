@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:32:27 2024
+
+@author: ADMIN
+"""
+
+Cities = ("Surat", "Ahmedabad", "Mumbai", "Gurgaon", "Chandigarh", "Lokhandvala", "Lonavala")
+print("Thard to sixth cities in the tupl is ", Cities[2:6])
