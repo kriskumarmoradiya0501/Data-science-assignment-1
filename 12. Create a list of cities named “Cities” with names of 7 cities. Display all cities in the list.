@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 12:52:51 2024
+
+@author: ADMIN
+"""
+
+city = ["surat","bhavanagar","mumbai","delhi","panjab","gudgaun"]
+for cityies in city:
+    print(cityies)
