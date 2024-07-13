@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:46:59 2024
+
+@author: ADMIN
+"""
+
+Cities = ("Surat", "Ahmedabad", "Mumbai", "Gurgaon", "Chandigarh", "Lokhandvala", "Lonavala")
+for city in Cities:
+    print(city)
+Cities = Cities[:3] + Cities[4:]
+print("Tuple of cities after removing the 4th element by value:")
+for city in Cities:
+    print(city)
