@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:34:02 2024
+
+@author: ADMIN
+"""
+
+Cities = ("Surat", "Ahmedabad", "Gurgaon", "Chandigarh", "Lokhandvala", "Lonavala")
+list1 = list(Cities)
+list1[2] = "Jodhapur"
+city = tuple(list1)
+print("Updated tuple of cities:")
+for city1 in city:
+    print(city1)
