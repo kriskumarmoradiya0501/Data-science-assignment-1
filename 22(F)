@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:42:56 2024
+
+@author: ADMIN
+"""
+
+Cities = ("Surat", "Ahmedabad", "Mumbai", "Gurgaon", "Chandigarh", "Lokhandvala", "Lonavala")
+for city in Cities:
+    print(city)
+
+Cities = Cities + ("Jaipur",)
+print("Tuple of cities after inserting 'Jaipur' at last position:")
+for city in Cities:
+    print(city)
