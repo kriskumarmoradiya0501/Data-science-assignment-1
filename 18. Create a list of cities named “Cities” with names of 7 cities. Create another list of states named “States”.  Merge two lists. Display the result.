@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:05:20 2024
+
+@author: ADMIN
+"""
+
+city = ["surat","bhavanagar","Ahmedabad","Chandigrh","Hariyana","gudgaun"]
+for cityies in city:
+    print(cityies)
+
+state = ["Gujarat","Maharashtra","Panjab","Tamilnadu","Uttar Pradesh","Uttra khand","Jammu Kashmir"]
+for cityies in state:
+    print(cityies)
+result = city + state
+for cityies in result:
+    print(cityies)
