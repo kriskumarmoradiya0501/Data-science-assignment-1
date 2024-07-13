@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:01:49 2024
+
+@author: ADMIN
+"""
+
+
+city = ["surat","bhavanagar","mumbai","delhi","panjab","gudgaun"]
+for cityies in city:
+    print(cityies)
+print("Here we are adding Hariyana on 5th position")
+city.insert(4, "Haryana")
+for cityies in city:
+    print(cityies)
