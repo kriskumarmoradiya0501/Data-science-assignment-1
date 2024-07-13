@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:31:26 2024
+
+@author: ADMIN
+"""
+
+Cities = ("Surat", "Ahmedabad", "Mumbai", "Gurgaon", "Chandigarh", "Lokhandvala", "Lonavala")
+print("\n3rd city in the tuple is ",Cities[2])
