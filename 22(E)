@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:39:30 2024
+
+@author: ADMIN
+"""
+
+Cities = ("Surat", "Ahmedabad", "Mumbai", "Gurgaon", "Chandigarh", "Lokhandvala", "Lonavala")
+Cities = Cities[:4] + ("Jodhapur",) + Cities[4:]
+print("Tuple of cities after inserting a new city at 5th position is ")
+for city in Cities:
+    print(city)
