@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 12:50:14 2024
+
+@author: ADMIN
+"""
+
+
+num1 = int(input("Enter number 1 :"))
+num2 = int(input("Enter number 2 :"))
+sub = num1-num2
+print(num1,"-",num2,"=",sub)
