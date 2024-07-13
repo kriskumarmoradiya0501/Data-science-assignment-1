@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:44:02 2024
+
+@author: ADMIN
+"""
+
+Cities = ("Surat", "Ahmedabad", "Mumbai", "Gurgaon", "Chandigarh", "Lokhandvala", "Lonavala")
+for item in Cities:
+    print(item)
+States = ("Gujarat", "Punjab", "Uttar Pradesh", "Uttarakhand", "Maharashtra", "Tamil Nadu", "Jammu & Kashmir", "Rajasthan")
+result = Cities + States
+print("Merged tuple of cities and states:")
+for item in result:
+    print(item)
