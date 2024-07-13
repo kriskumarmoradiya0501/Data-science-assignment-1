@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 13 13:02:59 2024
+
+@author: ADMIN
+"""
+
+
+city = ["surat","bhavanagar","mumbai","delhi","panjab","gudgaun"]
+for cityies in city:
+    print(cityies)
+print("Here we are adding Chandigrah at the end possition")
+city.append("Chandigrah")
+for cityies in city:
+    print(cityies)
