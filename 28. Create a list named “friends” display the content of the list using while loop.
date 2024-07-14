@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul 14 17:09:52 2024
+
+@author: ADMIN
+"""
+
+friend = ["Krish","Smit","Devansh","Pankh","Harmin","Sahil"]
+i=0
+while i<len(friend):
+    print(friend[i])
+    i+=1
