@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul 14 17:32:00 2024
+
+@author: ADMIN
+"""
+
+def my_name():
+    print("Hello my name is Kriskumar")
+
+my_name()
