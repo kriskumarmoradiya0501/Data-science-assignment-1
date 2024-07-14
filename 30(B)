@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul 14 17:15:19 2024
+
+@author: ADMIN
+"""
+
+friend = ("Krish","Smit","Devansh","Pankh","Harmin","Sahil")
+
+for friends in friend:
+    print(friends)
