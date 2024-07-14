@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul 14 17:03:11 2024
+
+@author: ADMIN
+"""
+
+
+friend = {
+    "Name":"Ravi",
+    "Age":21,
+    "City":"Ahmedabad"
+    }
+print(friend.get("City"))
