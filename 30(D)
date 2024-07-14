@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul 14 17:16:56 2024
+
+@author: ADMIN
+"""
+
+friend = {"Krish","Smit","Devansh","Pankh","Harmin","Sahil"}
+friend1=list(friend)
+
+for friends in friend1:
+    print(friends)
