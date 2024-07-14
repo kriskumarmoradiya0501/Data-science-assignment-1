@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul 14 17:26:29 2024
+
+@author: ADMIN
+"""
+
+num1 = int(input("Enter Number 1 : "))
+num2 = int(input("Enter Number 2 : "))
+
+if num1>num2:
+    print(num1," is big")
+elif num2>num1:
+    print(num2," is big")
+elif num1==num2:
+    print(num1," and ",num2," are equal")
